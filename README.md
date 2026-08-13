@@ -93,3 +93,6 @@ python .\backend\cut.py `
 - 标签使用 PNG 保存，不要改成 JPEG；有损压缩可能改变类别像元值。
 - 如果输出目录中存在未配对的旧文件，程序会停止并提示，避免混合不同数据集。
 
+## 制作遥感图像语义数据集
+
+阅读 https://blog.csdn.net/damadashen/article/details/142553309
