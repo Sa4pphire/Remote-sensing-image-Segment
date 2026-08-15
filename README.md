@@ -13,6 +13,9 @@
 - 支持任务中断后重新运行，已完成的样本对会被复用，残留临时文件会被清理。
 - 前端显示窗口处理进度、有效样本数量、空标签数量和后端日志。
 
+<img width="902" height="712" alt="QQ20260815-175604" src="https://github.com/user-attachments/assets/5b934da5-249e-4cb3-8460-b4e9a72b06c2" />
+
+
 ### 安装依赖
 
 普通 Python 环境可以先运行：
